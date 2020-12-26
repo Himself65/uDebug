@@ -1,0 +1,21 @@
+{
+  "name": "u-debug",
+  "version": "1.0.0",
+  "types": "index.d.ts",
+  "repository": "https://github.com/Himself65/uDebug.git",
+  "author": "himself65 <himself65@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint . --ext .ts"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.11.0",
+    "@typescript-eslint/parser": "^4.11.0",
+    "eslint": "^7.16.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "typescript": "^4.1.3"
+  }
+}
